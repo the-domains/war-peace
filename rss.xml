@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[War/Peace]]></title>
         <description><![CDATA[War/Peace]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/war-peace/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 00:05:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Apr 2016 00:06:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/war-peace/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>War/Peace is an ongoing project, uniting art and philosophy with hope to help individuals see beyond their personal views, and broaden their thinking.</p>]]></description>
-            <link>undefinedwarpeace-is-an-ongoing-project-uniting-art-and-philosophy/index.html</link>
+            <title><![CDATA[War/Peace Triptych]]></title>
+            <description><![CDATA[<article><h1>War/Peace Triptych</h1><p>War/Peace is an ongoing project, uniting art and philosophy with hope to help individuals see beyond their personal views, and broaden their thinking.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57ec19c6c334fd1d6e092421008e39bd2027b322.png"></article>]]></description>
+            <link>https://thegrid.ai/war-peace/warpeace-is-an-ongoing-project-uniting-art-and-philosophy/index.html</link>
             <guid isPermaLink="false">521af2c0-0ed0-4bb3-8e4b-aa9a8c8ccd7a</guid>
-            <pubDate>Mon, 18 Apr 2016 00:05:34 GMT</pubDate>
+            <pubDate>Mon, 18 Apr 2016 00:06:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
