@@ -1,7 +1,7 @@
 name: War/Peace
 favicon: null
-layout_spectrum: 0.14277239725925028
-typography_spectrum: 0.17219888768158853
+layout_spectrum: 0.24461
+typography_spectrum: 0.93848
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.7229707664810121
-  lightness: 0.04188199806958437
-  saturation: 0.11711656162515283
-  rhythmicContrast: 0.5265795502346009
+    - '#000000'
+    - '#ffffff'
+    - '#cc0001'
+    - '#707070'
+    - '#bababa'
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
