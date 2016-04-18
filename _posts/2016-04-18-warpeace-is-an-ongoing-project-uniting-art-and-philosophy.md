@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'War/Peace is an ongoing project, uniting art and philosophy with hope to help individuals see beyond their personal views, and broaden their thinking.'
-datePublished: '2016-04-18T00:05:34.215Z'
-dateModified: '2016-04-18T00:05:21.369Z'
+datePublished: '2016-04-18T00:06:58.342Z'
+dateModified: '2016-04-18T00:05:40.096Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-18-warpeace-is-an-ongoing-project-uniting-art-and-philosophy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-warpeace-is-an-ongoing-project-uniting-art-and-philosophy.md
-published: true
 url: warpeace-is-an-ongoing-project-uniting-art-and-philosophy/index.html
 _type: Article
 
