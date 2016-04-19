@@ -3,13 +3,15 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'War/Peace is an ongoing project, uniting art and philosophy with hope to help individuals see beyond their personal views, and broaden their thinking.'
-datePublished: '2016-04-18T00:06:58.342Z'
-dateModified: '2016-04-18T00:05:40.096Z'
-title: ''
-author: []
+datePublished: '2016-04-19T00:58:41.012Z'
+dateModified: '2016-04-19T00:57:15.434Z'
+title: War/Peace Triptych
+author:
+  - name: Benjamin Winans
+    url: www.benwinans.com
 sourcePath: _posts/2016-04-18-warpeace-is-an-ongoing-project-uniting-art-and-philosophy.md
 published: true
 authors: []
